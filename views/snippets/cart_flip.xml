@@ -1,0 +1,189 @@
+<odoo >
+    <?xml-stylesheet href="views/snippets/Day1.css" type="text/css"?>
+        <template id="cart_flip" name="Cart Flip" >
+        
+        <!-- Html đc bao phủ bởi phần section -->
+        <section class="s_image_gallery o_spc-small o_masonry pt24 pb24 o_colored_level" data-vcss="001" data-columns="3" style="overflow: hidden; background-image: none;" data-snippet="s_images_wall" data-name="Images Wall">
+            <div class="container">
+              <div class="row s_nb_column_fixed box__card">
+                <div class="o_masonry_col o_snippet_not_selectable col-lg-4">
+                    <div class="flip-card  d-block" data-index="0"  loading="lazy" data-original-id="35">
+                        <div class="flip-card">
+                            <div class="flip-card-inner">
+                              <div class="flip-card-front">
+                                <img src="https://i.pinimg.com/564x/92/63/0f/92630f4d7168440629c89a548e64ffc4.jpg" alt="Avatar" style="width:300px;height:300px;"/>
+                              </div>
+                              <div class="flip-card-back">
+                                <div class="fcb__img"><img src="https://i.pinimg.com/564x/92/63/0f/92630f4d7168440629c89a548e64ffc4.jpg" alt="" /> </div>
+                                <div class="fcb__name"><p>Rose</p></div>
+                                <div class="fcb__info-detail">  
+                                    <p>Phone: 0923388998</p>
+                                    <p>Email: abc@gmail.com</p>
+                                </div>
+                                <div class="fcb__contact">
+                                    <p>Contact me</p>
+                                    <div class="fcb__icon">
+                                        <a href="#"><i class="fa-brands fa-twitter"></i></a>
+                                        <a href="#"><i class="fa-brands fa-facebook"></i></a>                          
+                                        <a href="#"><i class="fa-brands fa-instagram"></i></a>                           
+                                        <a href="#"><i class="fa-brands fa-linkedin-in"></i></a> 
+                                       
+                                    </div>
+                                </div>
+                              </div>
+                            </div>
+                        </div>
+                
+                    </div>
+                    <div class="flip-card  d-block" data-index="3"  loading="lazy" data-original-id="42">
+                        <div class="flip-card">
+                            <div class="flip-card-inner">
+                              <div class="flip-card-front">
+                                <img src="https://i.pinimg.com/564x/92/63/0f/92630f4d7168440629c89a548e64ffc4.jpg" alt="Avatar" style="width:300px;height:300px;"/>
+                              </div>
+                              <div class="flip-card-back">
+                                <div class="fcb__img"><img src="https://i.pinimg.com/564x/92/63/0f/92630f4d7168440629c89a548e64ffc4.jpg" alt="" /> </div>
+                                <div class="fcb__name"><p>Rose</p></div>
+                                <div class="fcb__info-detail">  
+                                    <p>Phone: 0923388998</p>
+                                    <p>Email: abc@gmail.com</p>
+                                </div>
+                                <div class="fcb__contact">
+                                    <p>Contact me</p>
+                                    <div class="fcb__icon">
+                                        <a href="#"><i class="fa-brands fa-twitter"></i></a>
+                                        <a href="#"><i class="fa-brands fa-facebook"></i></a>                          
+                                        <a href="#"><i class="fa-brands fa-instagram"></i></a>                           
+                                        <a href="#"><i class="fa-brands fa-linkedin-in"></i></a> 
+                                       
+                                    </div>
+                                </div>
+                              </div>
+                            </div>
+                        </div>
+                
+                    </div>
+                </div>
+                <div class="o_masonry_col o_snippet_not_selectable col-lg-4">
+                    <div class="flip-card  d-block" data-index="1"  loading="lazy" data-original-id="45">
+                        <div class="flip-card">
+                            <div class="flip-card-inner">
+                              <div class="flip-card-front">
+                                <img src="https://i.pinimg.com/564x/92/63/0f/92630f4d7168440629c89a548e64ffc4.jpg" alt="Avatar" style="width:300px;height:300px;"/>
+                              </div>
+                              <div class="flip-card-back">
+                                <div class="fcb__img"><img src="https://i.pinimg.com/564x/92/63/0f/92630f4d7168440629c89a548e64ffc4.jpg" alt="" /> </div>
+                                <div class="fcb__name"><p>Rose</p></div>
+                                <div class="fcb__info-detail">  
+                                    <p>Phone: 0923388998</p>
+                                    <p>Email: abc@gmail.com</p>
+                                </div>
+                                <div class="fcb__contact">
+                                    <p>Contact me</p>
+                                    <div class="fcb__icon">
+                                        <a href="#"><i class="fa-brands fa-twitter"></i></a>
+                                        <a href="#"><i class="fa-brands fa-facebook"></i></a>                          
+                                        <a href="#"><i class="fa-brands fa-instagram"></i></a>                           
+                                        <a href="#"><i class="fa-brands fa-linkedin-in"></i></a> 
+                                       
+                                    </div>
+                                </div>
+                              </div>
+                            </div>
+                        </div>
+                
+                    </div>
+                    <div class="flip-card  d-block" data-index="4"  loading="lazy" data-original-id="37">
+                        <div class="flip-card">
+                            <div class="flip-card-inner">
+                              <div class="flip-card-front">
+                                <img src="https://i.pinimg.com/564x/92/63/0f/92630f4d7168440629c89a548e64ffc4.jpg" alt="Avatar" style="width:300px;height:300px;"/>
+                              </div>
+                              <div class="flip-card-back">
+                                <div class="fcb__img"><img src="https://i.pinimg.com/564x/92/63/0f/92630f4d7168440629c89a548e64ffc4.jpg" alt="" /> </div>
+                                <div class="fcb__name"><p>Rose</p></div>
+                                <div class="fcb__info-detail">  
+                                    <p>Phone: 0923388998</p>
+                                    <p>Email: abc@gmail.com</p>
+                                </div>
+                                <div class="fcb__contact">
+                                    <p>Contact me</p>
+                                    <div class="fcb__icon">
+                                        <a href="#"><i class="fa-brands fa-twitter"></i></a>
+                                        <a href="#"><i class="fa-brands fa-facebook"></i></a>                          
+                                        <a href="#"><i class="fa-brands fa-instagram"></i></a>                           
+                                        <a href="#"><i class="fa-brands fa-linkedin-in"></i></a> 
+                                       
+                                    </div>
+                                </div>
+                              </div>
+                            </div>
+                        </div>
+                
+                    </div>
+                </div>
+                <div class="o_masonry_col o_snippet_not_selectable col-lg-4">
+                    <div class="flip-card  d-block" data-index="3"  loading="lazy" data-original-id="46">
+                        <div class="flip-card">
+                            <div class="flip-card-inner">
+                              <div class="flip-card-front">
+                                <img src="https://i.pinimg.com/564x/92/63/0f/92630f4d7168440629c89a548e64ffc4.jpg" alt="Avatar" style="width:300px;height:300px;"/>
+                              </div>
+                              <div class="flip-card-back">
+                                <div class="fcb__img"><img src="https://i.pinimg.com/564x/92/63/0f/92630f4d7168440629c89a548e64ffc4.jpg" alt="" /> </div>
+                                <div class="fcb__name"><p>Rose</p></div>
+                                <div class="fcb__info-detail">  
+                                    <p>Phone: 0923388998</p>
+                                    <p>Email: abc@gmail.com</p>
+                                </div>
+                                <div class="fcb__contact">
+                                    <p>Contact me</p>
+                                    <div class="fcb__icon">
+                                        <a href="#"><i class="fa-brands fa-twitter"></i></a>
+                                        <a href="#"><i class="fa-brands fa-facebook"></i></a>                          
+                                        <a href="#"><i class="fa-brands fa-instagram"></i></a>                           
+                                        <a href="#"><i class="fa-brands fa-linkedin-in"></i></a> 
+                                       
+                                    </div>
+                                </div>
+                              </div>
+                            </div>
+                        </div>
+                
+                    </div>
+
+                    <div class="flip-card  d-block" data-index="5"  loading="lazy" data-original-id="48">
+                        <div class="flip-card">
+                            <div class="flip-card-inner">
+                              <div class="flip-card-front">
+                                <img src="https://i.pinimg.com/564x/92/63/0f/92630f4d7168440629c89a548e64ffc4.jpg" alt="Avatar" style="width:300px;height:300px;"/>
+                              </div>
+                              <div class="flip-card-back">
+                                <div class="fcb__img"><img src="https://i.pinimg.com/564x/92/63/0f/92630f4d7168440629c89a548e64ffc4.jpg" alt="" /> </div>
+                                <div class="fcb__name"><p>Rose</p></div>
+                                <div class="fcb__info-detail">  
+                                    <p>Phone: 0923388998</p>
+                                    <p>Email: abc@gmail.com</p>
+                                </div>
+                                <div class="fcb__contact">
+                                    <p>Contact me</p>
+                                    <div class="fcb__icon">
+                                        <a href="#"><i class="fa-brands fa-twitter"></i></a>
+                                        <a href="#"><i class="fa-brands fa-facebook"></i></a>                          
+                                        <a href="#"><i class="fa-brands fa-instagram"></i></a>                           
+                                        <a href="#"><i class="fa-brands fa-linkedin-in"></i></a> 
+                                       
+                                    </div>
+                                </div>
+                              </div>
+                            </div>
+                        </div>
+                
+                    </div>
+                </div>
+              </div>
+            </div>
+          </section>
+        </template>
+    
+    </odoo>

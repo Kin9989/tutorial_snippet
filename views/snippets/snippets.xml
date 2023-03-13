@@ -1,0 +1,21 @@
+<odoo>
+    <template id="tutorial_snippet" inherit_id="website.snippets" name="V Block">
+        <xpath expr="//div[@id='snippet_structure']/div[hasclass('o_panel_body')]" position="inside">
+            <t t-snippet="tutorial_snippet.v_block"
+                t-thumbnail="/website/static/src/img/snippets_thumbs/s_cover.svg" />
+        </xpath>
+    </template>
+    <template id="tutorial_snippet1" inherit_id="website.snippets" name="Phoen Block">
+        	<xpath expr="//div[@id='snippet_structure']/div[hasclass('o_panel_body')]" position="inside">
+            		<t t-snippet="tutorial_snippet.trung_block"
+                	t-thumbnail="/website/static/src/img/snippets_thumbs/s_cover.svg" />
+            </xpath>
+    </template>
+    
+    <template id="tutorial_snippet" inherit_id="website.snippets" name="Cart Flip">
+        <xpath expr="//div[@id='snippet_structure']/div[hasclass('o_panel_body')]" position="inside">
+            <t t-snippet="tutorial_snippet.cart_flip"
+                t-thumbnail="/website/static/src/img/snippets_thumbs/s_cover.svg" />
+        </xpath>
+    </template>
+</odoo>
